@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Korzystanie z odtwarzacza MP3 napisanego w technologii Flash</title>
+    <script type="text/javascript"
+      src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+    <script type="text/javascript">
+      var flashvars = {};
+      var params = {mp3: "audio/test-audio.mp3"};
+      swfobject.embedSWF(
+        "flash/player_mp3_1.0.0.swf",
+        "music-player", "200", "20", "8.0.0",
+        flashvars, params);</script>
+  </head>
+  
+  <body>
+  
+    <div id="music-player">
+      <p>Nie możesz usłyszeć tego utworu muzycznego
+        ponieważ Twoja przeglądarka nie obsługuje
+        technologii Flash.</p>
+    </div>
+    
+  </body>
+</html>
