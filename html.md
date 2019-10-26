@@ -43,4 +43,4 @@ __Akapity tekstu__ są zapisany pomiędzy znacznikami &lt;p&gt; i &lt;/p&gt;.
 
 __Najważniejszy nagłówek strony__ jest pomiędzy &lt;h1&gt; i &lt;/h1&gt;.
 
-__Nagłówek drugiego poziomu__ jest pomiędzy &lt;h2 i &lt;/h2&gt;.
+__Nagłówek drugiego poziomu__ jest pomiędzy &lt;h2&gt; i &lt;/h2&gt;.
