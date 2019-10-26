@@ -35,7 +35,7 @@ Serwer WWW, na którym działa witryna, może byż umieszczony w dowolnym miejsc
 Kod HTML (niebieski kolor) składa się za znaków zapisanych pomiędzy nawiasami kątowymi - **elementy** HTML - otwierający i zamykający znaczniki. Wewnątrz znacznika zamykającego umieszczany jest dodatkowo znak ukośnika. 
 
 
-__Kod__ strony znachodzi się pomiędzy html i /html.
+__Kod__ strony znachodzi się pomiędzy &lt; html i /html.
 
 __Kod wyświetlone w głównym oknie__ przeglądarki znachodzi się pomiędzy body i /body.
 
