@@ -35,12 +35,12 @@ Serwer WWW, na którym działa witryna, może byż umieszczony w dowolnym miejsc
 Kod HTML (niebieski kolor) składa się za znaków zapisanych pomiędzy nawiasami kątowymi - **elementy** HTML - otwierający i zamykający znaczniki. Wewnątrz znacznika zamykającego umieszczany jest dodatkowo znak ukośnika. 
 
 
-__Kod__ strony znachodzi się pomiędzy &lt; html i /html.
+__Kod__ strony znachodzi się pomiędzy  &lt;html&gt; i &lt;/html&gt;.
 
-__Kod wyświetlone w głównym oknie__ przeglądarki znachodzi się pomiędzy body i /body.
+__Kod wyświetlone w głównym oknie__ przeglądarki znachodzi się pomiędzy &lt;body&gt; i &lt;/body&gt;.
 
-__Akapity tekstu__ są zapisany pomiędzy znacznikami p i /p.
+__Akapity tekstu__ są zapisany pomiędzy znacznikami &lt;p&gt; i &lt;/p&gt;.
 
-__Najważniejszy nagłówek strony__ jest pomiędzy h1 i /h1.
+__Najważniejszy nagłówek strony__ jest pomiędzy &lt;h1&gt; i &lt;/h1&gt;.
 
-__Nagłówek drugiego poziomu__ jest pomiędzy h2 i /h2.
+__Nagłówek drugiego poziomu__ jest pomiędzy &lt;h2 i &lt;/h2&gt;.
